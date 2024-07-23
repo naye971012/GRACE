@@ -1,0 +1,9 @@
+data/*
+wandb/*
+
+src/apex/*
+src/DeepSpeed/*
+
+model/*
+
+__pycache__
